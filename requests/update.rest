@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/todolist/5ff4dadfeea2a13cdcbe0a47
+Content-Type: application/json
+
+{
+    "title": "Tee tehtävä heti",
+    "done": true
+}
